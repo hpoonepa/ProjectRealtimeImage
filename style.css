@@ -1,0 +1,38 @@
+#modeltrained{
+
+    background-color:white;
+    border-radius:30px;
+    width:60%;
+}
+#heading{
+    background-color:rgb(113, 230, 200);
+    border-radius:10px;
+    padding:10px;
+    box-shadow:5px 5px 5px gray;
+}
+#title{
+color:white;
+font-size:23px;  
+}
+h2{
+ background-color:orange;
+ font-size: 20px;   
+}
+.para_result{
+border-radius:3px white solid;
+box-shadow: 2px 2px 3px black;
+font-size: 20px;
+
+}
+#copy_right_div{
+position:fixed;
+bottom:0;
+color:white;
+text-align:center;
+width:100%;    
+background-color:gray;
+}
+canvas{
+box-shadow:5px 5px 4px gray;
+margin-top:170px;
+}
